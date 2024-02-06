@@ -1,0 +1,4 @@
+This is to inform you that the result of 
+  first is: This is the first text file and 
+  second is: Hello there
+Appended
