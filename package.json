@@ -7,12 +7,17 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node second-App.js",
+    "dev": "nodemon second-App.js" 
+    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
   }
 }
